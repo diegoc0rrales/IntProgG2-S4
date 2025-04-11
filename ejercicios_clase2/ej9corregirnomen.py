@@ -1,0 +1,11 @@
+nombrePersona = str(input("Nombre: "))
+edad_persona = int(input("Edad: "))
+totalPrecio = float(input("Precio Total: "))
+numero_de_telefono = int(input("Número de teléfono: "))
+direccionEmail = str(input("Dirección de email: "))
+
+print(f"Nombre: {nombrePersona}")
+print(f"Edad: {edad_persona}")
+print(f"Precio Total: {totalPrecio}")
+print(f"Número de Teléfono: {numero_de_telefono}")
+print(f"Dirección de Email: {direccionEmail}")

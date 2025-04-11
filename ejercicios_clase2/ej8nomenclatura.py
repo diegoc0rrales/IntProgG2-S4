@@ -1,0 +1,11 @@
+variable1 = str("totalAmount")
+variable2 = str("TotalAmount")
+variable3 = str("total_amount")
+variable4 = str("TOTAL_AMOUNT")
+variable5 = str("total-amount")
+
+print(f"La primera variable {variable1} está escrita con la nomenclatura camelCase")
+print(f"La segunda variable {variable2} está escrita con la nomenclatura PascalCase")
+print(f"La tercera variable {variable3} está escrita con la nomenclatura snake_case")
+print(f"La cuarta variable {variable4} está escrita con la nomenclatura SCREAMING_SNAKE_CASE")
+print(f"La quinta variable {variable5} está escrita con la nomenclatura kebab-case")
